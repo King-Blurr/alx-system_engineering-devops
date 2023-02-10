@@ -1,1 +1,1 @@
-we
+shell permissions
